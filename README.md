@@ -3,6 +3,9 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://python.org/)
 
+[![Build Status](https://github.com/jhw8841/products/actions/workflows/ci.yml/badge.svg)](https://github.com/jhw8841/products/actions)
+[![codecov](https://codecov.io/gh/jhw8841/products/graph/badge.svg)](https://codecov.io/gh/jhw8841/products)
+
 This is a skeleton you can use to start your projects.
 
 **Note:** _Feel free to overwrite this `README.md` file with the one that describes your project._
